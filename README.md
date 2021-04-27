@@ -30,6 +30,9 @@
 <img align="left" alt="GitHub" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/github.svg" />
 <img align="left" alt="Trello" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/trello.svg" />
 
+<br />
+<br />
+
 ### Currently learning:
 <img align="left" alt="UnrealEngine" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/unreal-engine.svg" />
 <img align="left" alt="C++" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/c%2B%2B.svg" />
