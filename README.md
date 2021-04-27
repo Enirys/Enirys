@@ -13,7 +13,7 @@
 
 
 ### Social media:
-[<img align="left" alt="Syrine Khelifi | LinkedIn" width="22px" src="https://github.com/Enirys/Enirys/blob/main/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="Syrine Khelifi | LinkedIn" width="22px" src="https://github.com/Enirys/Enirys/blob/main/icons/linkedin.svg" /> [linkedin]
 
 <br />
 
@@ -55,10 +55,5 @@
 <img align="left" alt="Syrine's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enirys" />
 
 </details>
-<!--
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[portfolio]: https://arsentieva.github.io/profile/
--->
+
 [linkedin]: https://www.linkedin.com/in/syrine-khelifi
