@@ -13,31 +13,31 @@
 
 
 ### Social media:
-<img align="left" alt="Syrine Khelifi | LinkedIn" width="22px" src="https://github.com/Enirys/Enirys/blob/main/icons/linkedin.svg" /> [linkedin]
+<a href="https://www.linkedin.com/in/syrine-khelifi" title="Syrine Khelifi | Linkedin"><img src="https://github.com/Enirys/Enirys/blob/main/icons/linkedin.svg" /></a>
 
 <br />
 
 ### Languages and Tools I use:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Unity3D" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/unity3d.svg" />]
-[<img align="left" alt="C#" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/c-sharp.svg" />]
-[<img align="left" alt="Firebase" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/firebase.svg" />]
-[<img align="left" alt="Python" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/python.svg" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Unity3D" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/unity3d.svg" />
+<img align="left" alt="C#" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/c-sharp.svg" />]
+<img align="left" alt="Firebase" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/firebase.svg" />
+<img align="left" alt="Python" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/python.svg" />
 
-[<img align="left" alt="Java" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/java.svg" />]
-[<img align="left" alt="Flutter" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/flutter.svg" />]
-[<img align="left" alt="Dart" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/dart.svg" />]
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/mysql.svg" />]
+<img align="left" alt="Java" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/java.svg" />
+<img align="left" alt="Flutter" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/flutter.svg" />
+<img align="left" alt="Dart" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/dart.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/mysql.svg" />
 
-[<img align="left" alt="Git" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/git.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/github.svg" />]
+<img align="left" alt="Git" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/github.svg" />
 
 <br />
 ### Currently learning:
-[<img align="left" alt="UnrealEngine" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/unreal-engine.svg" />]
-[<img align="left" alt="C++" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/c%2B%2B.svg" />]
-[<img align="left" alt="Tensorflow" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/tensorflow.svg" />]
+<img align="left" alt="UnrealEngine" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/unreal-engine.svg" />
+<img align="left" alt="C++" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/c%2B%2B.svg" />
+<img align="left" alt="Tensorflow" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/tensorflow.svg" />
 <br />
 <br />
 ---
@@ -55,5 +55,3 @@
 <img align="left" alt="Syrine's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enirys" />
 
 </details>
-
-[linkedin]: https://www.linkedin.com/in/syrine-khelifi
