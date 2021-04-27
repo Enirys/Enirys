@@ -4,8 +4,6 @@
 
 
 ## I'm a Software Engineer and a passioned Game Developer!
-<!-- - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book. -->
 - 🌱 I’m currently learning Machine Learning AI and Flutter
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
@@ -13,15 +11,15 @@
 
 
 ### Social media:
-<a href="https://www.linkedin.com/in/syrine-khelifi" title="Syrine Khelifi | Linkedin"><img src="https://github.com/Enirys/Enirys/blob/main/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/syrine-khelifi" title="Syrine Khelifi | Linkedin"><img src="https://github.com/Enirys/Enirys/blob/main/icons/linkedin.svg" width="22px"/></a>
 
 <br />
 
 ### Languages and Tools I use:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Unity3D" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/unity3d.svg" />
-<img align="left" alt="C#" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/c-sharp.svg" />]
+<img align="left" alt="C#" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/c-sharp.svg" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/firebase.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/Enirys/Enirys/blob/main/icons/python.svg" />
 
