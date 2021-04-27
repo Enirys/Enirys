@@ -13,8 +13,6 @@
 ### Social media:
 <a href="https://www.linkedin.com/in/syrine-khelifi" title="Syrine Khelifi | Linkedin"><img src="https://github.com/Enirys/Enirys/blob/main/icons/linkedin.svg" width="30px"/></a>
 
-<br />
-
 ### Languages and Tools I use:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -32,11 +30,11 @@
 <img align="left" alt="GitHub" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/github.svg" />
 <img align="left" alt="Trello" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/trello.svg" />
 
-<br />
 ### Currently learning:
 <img align="left" alt="UnrealEngine" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/unreal-engine.svg" />
 <img align="left" alt="C++" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/c%2B%2B.svg" />
 <img align="left" alt="Tensorflow" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/tensorflow.svg" />
+
 <br />
 <br />
 ---
