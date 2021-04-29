@@ -24,6 +24,7 @@
 <img align="left" alt="Java" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/java.svg" />
 <img align="left" alt="Flutter" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/flutter.svg" />
 <br />
+<br />
 <img align="left" alt="Dart" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/dart.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://github.com/Enirys/Enirys/blob/main/icons/mysql.svg" />
 
