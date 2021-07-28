@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/Enirys/Enirys/blob/main/dev.gif" width="480" height="360" />
 
 
-## I'm a Software Engineer and a passioned Game Developer!
+## I'm a Software Engineer and a Game Developer!
 - 🌱 I’m currently learning Machine Learning AI and Flutter
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
