@@ -4,7 +4,7 @@
 
 
 ## I'm a Software Engineer and a Game Developer!
-- 🌱 I’m currently learning Machine Learning AI and Flutter
+- 🌱 I’m currently learning Machine Learning & AI
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
