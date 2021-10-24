@@ -1,6 +1,6 @@
 ### Hello World, I'm Syrine 👋
 
- <img align="right" alt="GIF" src="https://github.com/Enirys/Enirys/blob/main/dev.gif" width="480" height="360" />
+ <img align="right" alt="GIF" src="https://github.com/Enirys/Enirys/blob/main/dev.gif" width="400" height="280" />
 
 
 ## I'm a Software Engineer and a Game Developer!
